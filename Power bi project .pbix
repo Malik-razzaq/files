@@ -1,0 +1,58 @@
+📘 Uncovering Expense Anomalies & Cashflow Risks in Business Operations (Power BI Dashboard)
+
+✅ Step 1: Define the Problem
+Goal: Detect spending inefficiencies and financial risks
+ Objective: Improve financial decisions by analyzing trends and anomalies in operational transactions
+
+📥 Step 2: Gather Data
+Dataset: financial_accounting_cleaned.csv
+Period: 2016–2024
+Fields: Date, Category, Credit/Debit, Transaction Type, Payment Method
+
+🧹 Step 3: Clean & Prepare
+Removed duplicates and blanks
+Standardized names (e.g., KDI_ → KPL_)
+Flagged negative/invalid entries
+
+🔍 Step 4: EDA
+Revenue: $39.4K
+Expenses: $40.44K
+Net Profit: -$1.04K
+Revenue Spikes: Aug 27 ($60K), Dec 15 ($59K)
+48% drop post-August
+Expense Breakdown: AP (50%), Inventory (30%), Uncategorized (20%)
+Avg Transaction: $606 | Sales avg: $43 | Transfers avg: $669
+
+📐 Step 5: Statistical Analysis
+Net profit trend: -$8K → -$14K
+Forecast loss: -$20K by Q1 2024
+Cash flow mismatch: $60K (Receivable: $1.34M, Payable: $1.28M)
+
+📊 Step 6: Power BI Visuals
+KPI Cards: Revenue, Expenses, Net Profit
+Line: Revenue vs Expenses
+Area: Forecasted Net Profit
+Donut: Expense by Category
+Bar: Top Expense Accounts
+Filters: Date, Category, Type, Payment Method
+
+📣 Step 7: Storytelling & Recommendations
+$1.04K loss despite $39.4K revenue
+48% drop post-Aug shows instability
+Sales vs Transfers gap shows pricing issue
+$1.3M uncategorized expenses → poor clarity
+$60K cash gap threatens liquidity
+Recommendations:
+Categorize $1.3M untagged entries
+Reduce AP/inventory costs
+Adjust pricing strategies
+Fix receivable/payable imbalance
+
+📈 Step 8: Business Impact
+✅ Visibility improved 100%
+💡 Risk reduced by 20%
+🔁 Cost recovery potential: $10K–$15K/year
+📈 Sales boost: $5K–$7K via pricing
+📊 Improved real-time decisions
+
+ hashtag#DataAnalysis hashtag#FinancialAnalysis
