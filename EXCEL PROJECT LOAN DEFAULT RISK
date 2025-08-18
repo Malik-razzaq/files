@@ -1,1 +1,54 @@
 https://docs.google.com/spreadsheets/d/14QkYoZFKDz7tekFoBCfrOul2yLhpirLv/edit?usp=drive_link&ouid=109694625610362901460&rtpof=true&sd=true
+Early Detection of Loan Default Risk Using Credit & LTV Patterns (Excel Dashboard)
+
+✅ Step 1: Define the Problem
+Goal: Identify factors leading to loan defaults
+ Objective: Inform credit approval policies using borrower traits (credit score, LTV, income, etc.)
+
+📥 Step 2: Gather Data
+Dataset: Loan_Default_Cleaned.xlsx
+Observations: 103,614
+Key Columns: Status, loan_type, Credit_Score, LTV, income, rate_of_interest, loan_purpose, Region
+
+🧹 Step 3: Clean & Prepare
+Removed blanks and fixed casing
+Created helper: Default_Flag
+Verified & grouped fields
+🔍 Step 4: EDA
+Total Loans: 999
+Default Rate: 7.4%
+Avg Credit Score (Defaulters): 631
+Avg Loan Amount: ~$198K
+Avg LTV of Defaulters: 79.3%
+
+📐 Step 5: Statistical Analysis
+Credit Score vs LTV: 0.00 (no correlation)
+Income vs Credit Score: Mild visual trend
+T-Test:
+Defaulters: ~631
+Non-defaulters: ~699.6
+t = 1947.63 | p = 0.000 → Strong difference
+
+📊 Step 6: Dashboard Visuals (Excel)
+Loan Type vs Defaults
+Credit Score Distribution
+Region vs Defaults
+Loan Purpose vs Interest Rate
+Income vs Default Rate
+
+📣 Step 7: Storytelling & Recommendations
+7.4% default rate
+Score < 660 → 2x default risk
+LTV > 80% → 1.8x default risk
+type1 → 3x more defaults
+2 regions = 70%+ of defaults
+Recommendations:
+Restrict loans for score < 660, LTV > 80%, income < $50K
+Use collateral or raise rates on risky types
+Price by region-specific default patterns
+
+📈 Step 8: Business Impact
+75% of defaults in one loan type
+12–18% loss reduction via targeting
+ROI ↑ via approval accuracy
+Region & risk score guide future policy
