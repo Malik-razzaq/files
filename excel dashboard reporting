@@ -1,0 +1,92 @@
+ Monthly Management Reporting & Actual vs Budget Performance Analysis 
+.
+1️⃣ Business Problem
+Senior management needed a monthly reporting pack to:
+ • Compare Actual vs Budget performance
+ • Identify cost overruns & revenue gaps
+ • Highlight material variances
+ • Understand departmental & monthly trends
+
+Key question:
+ 👉 Where are we missing the budget, why is it happening, and what actions will improve profitability?
+
+2️⃣ Project Objectives
+• Create a single source of truth for Actual vs Budget
+ • Identify top variance drivers
+ • Analyze monthly trends & seasonality
+ • Flag material & unfavorable performance
+ • Deliver an dashboard
+
+3️⃣ Data Understanding
+• Period: 2023–2025
+ • ~2,000 monthly transactions
+ • Dimensions: Month, Department, Account
+ • Measures: Actual, Budget, Variance, Variance %
+
+4️⃣ Tools & Skills Used
+Tools:
+ • Excel (PivotTables, PivotCharts, KPI cards, slicers)
+Skills:
+ • Financial reporting
+ • Budget vs Actual analysis
+ • KPI tracking
+ • Trend & MoM analysis
+ • Business storytelling 
+
+5️⃣ Data Cleaning 
+• Standardized department & account names
+ • Separated Revenue vs Expense accounts
+ • Applied consistent sign convention
+ • Created calculated fields:
+ – Variance
+ – Variance %
+ – Material flag
+ – Performance classification
+➡️ Ensured accurate aggregation and reliable insights
+
+6️⃣ EDA
+• Expenses consumed a disproportionate share of revenue
+ • Finance & Operations emerged as largest cost centers
+ • Clear seasonality with strong peaks (March, May, December)
+ • Weak performance in mid-year months revealed planning gaps
+
+7️⃣ Actual vs Budget Analysis (Core Insight)
+• Revenue missed budget by ~80%
+ • Expenses exceeded budget by ~390%
+ • Resulting net profit gap ≈ $6M
+➡️ Performance shortfall driven by both revenue underachievement and cost overruns
+
+8️⃣ Variance Driver Analysis
+• Sales & IT contributed over 50% of unfavorable variance
+ • All departments showed material unfavorable variances
+ • Over 60% of transactions were unfavorable vs plan
+➡️ Indicates a systemic execution issue, not isolated exceptions
+
+9️⃣ Month-over-Month Trends
+• High volatility across months
+ • Sharp drops during late summer periods
+ • Limited smoothing or forecast adjustment
+➡️ Signals weak forecasting discipline and reactive spending
+
+🔟 Dashboard 
+• KPI cards: Actual, Budget, Variance, Variance %
+ • Visuals: Actual vs Budget, top variance drivers, monthly trends
+ • Slicers: Month, Department, Account, Material flag
+➡️ Enables fast executive review and drill-down decisions
+
+1️⃣1️⃣ Business Impact
+Current state:
+ • Net profit gap: ~$6M
+ • Expense overspend: ~390%
+ • Unfavorable transactions: ~61%
+Improvement scenario:
+ • 10% cost reduction in Sales & IT
+ • 15% revenue realization improvement
+ • Monthly variance governance
+➡️ Estimated 20–25% net profit improvement
+
+1️⃣2️⃣ Recommendations
+ • Tighten Sales & IT cost controls
+ • Enforce monthly budget variance reviews
+ • Improve revenue tracking by channel
+ • Use MoM trends to refine forecasts
