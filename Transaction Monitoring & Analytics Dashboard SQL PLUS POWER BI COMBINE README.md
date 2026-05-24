@@ -192,9 +192,6 @@ The result was a more focused, centralized, and decision-friendly transaction mo
 
 ---
 
-# Author
-
-Anas Arshad
 
 ## Skills Demonstrated
 
