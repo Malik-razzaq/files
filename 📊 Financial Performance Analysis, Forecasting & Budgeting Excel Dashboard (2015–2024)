@@ -1,0 +1,152 @@
+📊 Financial Performance Analysis, Forecasting & Budgeting Excel Dashboard (2015–2024)
+🔎 Business Problem
+
+Organizations require accurate forecasting and budgeting systems to improve profitability, optimize costs, and support strategic planning.
+
+Without financial forecasting frameworks, leadership teams risk:
+
+inaccurate budgeting
+declining profit margins
+inefficient resource allocation
+delayed strategic decisions
+
+This project answers the business question:
+
+How can management improve profitability and forecasting accuracy using historical financial data?
+
+👥 Stakeholders
+FP&A Teams
+Finance Managers
+Executive Leadership
+Budget Planning Teams
+🎯 Project Objectives
+
+This project was developed to:
+
+✔ analyze historical financial performance
+✔ evaluate profitability trends
+✔ build forecasting models
+✔ simulate budgeting scenarios
+✔ assess macroeconomic risk
+✔ support executive decision-making
+
+📂 Dataset Overview
+Metric	Value
+Time Period	2015–2024
+Financial Records	2,000
+Analysis Frequency	Quarterly
+Companies Analyzed	Multiple
+Variables Analyzed
+
+Revenue • Expenses • Net Income • ROE • ROA • Debt-to-Equity • Inflation • Interest Rate • Cash Flow
+
+📊 Data Analyst Project Roadmap
+1️⃣ Data Cleaning & Preparation
+
+Performed:
+
+data structuring
+KPI engineering
+financial ratio calculations
+growth metric calculations
+Calculated Columns
+QoQ Growth
+YoY Growth
+Operating Margin
+Net Margin
+Revenue Volatility
+2️⃣ Exploratory Data Analysis (EDA)
+
+Analyzed:
+
+revenue trends
+expense behavior
+profitability stability
+growth performance
+macroeconomic sensitivity
+📈 Key KPIs
+KPI	Value
+Total Revenue	$560.9M
+Total Profit	$104.7M
+Average Profit Margin	16.58%
+Average Revenue Growth	2.11%
+Revenue Volatility	~1.3%
+📉 Key Insights
+Revenue fluctuated by only ~1.3% across 10 years
+Expenses consumed ~75–77% of revenue
+Profit margins remained stable at ~16.6%
+Profit variability remained within ~6%
+Revenue growth averaged only 2.1% annually
+📊 Risk & Correlation Analysis
+Relationship	Correlation
+Revenue vs Interest Rate	-0.019
+Revenue vs Inflation	0.017
+Expenses vs Inflation	0.021
+Insight
+
+Financial performance showed very weak macroeconomic sensitivity.
+
+📈 Forecasting Model
+
+Built forecasting models for:
+
+revenue
+expenses
+profitability
+Forecast Results
+Metric	Forecast Range
+Revenue	$219K–$236K
+Profit	$24K–$47K
+📊 Budget Scenario Analysis
+Scenario	Revenue Growth	Revenue Projection
+Conservative	3%	$221K
+Base	6%	$227K
+Aggressive	9%	$234K
+💰 Quantified Business Impact
+Cost Optimization
+
+Reducing expenses by 3% could improve annual profit by:
+
+➡ $12M–$16M
+
+and increase profit margins from:
+
+➡ 16.6% → ~20%
+
+Revenue Growth Impact
+
+Increasing growth from 2.1% → 5% annually could generate:
+
+➡ $16M–$20M additional revenue over 3–5 years
+
+Forecast Optimization
+
+Improving forecast accuracy by 10–15% could strengthen:
+
+budgeting efficiency
+resource planning
+strategic decision-making
+📌 Business Decisions Supported
+
+This project helps management:
+
+optimize operational costs
+evaluate growth sustainability
+improve forecasting accuracy
+strengthen budgeting decisions
+monitor profitability risk
+🛠 Tools Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+KPI Dashboards
+Financial Modeling
+Scenario Analysis
+📚 Skills Demonstrated
+FP&A Skills
+
+Forecasting • Budgeting • KPI Tracking • Scenario Planning • Executive Reporting
+
+Data Analytics Skills
+
+EDA • Trend Analysis • Correlation Analysis • Data Visualization • Business Storytelling
