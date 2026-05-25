@@ -1,0 +1,140 @@
+📊 Monthly Management Reporting & Actual vs Budget Performance Analysis Excel Dashboard
+🔎 Business Problem
+
+Organizations require monthly management reporting systems to monitor:
+
+actual vs budget performance
+operational overspending
+profitability decline
+departmental financial efficiency
+
+Without variance analysis frameworks, organizations risk:
+
+8–15% operational overspending
+5–7% profitability decline
+delayed corrective actions
+inaccurate budget planning
+weak operational visibility
+
+This project answers the business question:
+
+How can management identify overspending, unfavorable budget variances, and profitability risks before financial performance deteriorates?
+
+👥 Stakeholders
+FP&A Teams
+Finance Managers
+Department Heads
+Executive Leadership
+🎯 Project Objectives
+
+This project was developed to:
+
+✔ monitor actual vs budget performance
+✔ identify favorable and unfavorable variances
+✔ improve operational cost visibility
+✔ strengthen budget planning accuracy
+✔ support executive financial decision-making
+
+📂 Dataset & Reporting Scope
+Metric	Value
+Reporting Frequency	Monthly
+Reporting Focus	Actual vs Budget
+KPI Categories	Revenue, Expenses, Profitability
+Dashboard Purpose	Variance & KPI Reporting
+Variables Analyzed
+
+Actual Revenue • Budget Revenue • Actual Expenses • Budget Expenses • Profit Variance • Department KPIs • Budget Achievement %
+
+📊 Data Analyst Project Roadmap
+1️⃣ Data Cleaning & KPI Engineering
+
+Performed:
+
+KPI structuring
+variance calculations
+reporting metric engineering
+budget utilization calculations
+Calculated Metrics
+Revenue Variance %
+Expense Variance %
+Profit Variance %
+Budget Achievement %
+Monthly KPI Metrics
+2️⃣ Exploratory Data Analysis (EDA)
+
+Analyzed:
+
+monthly revenue trends
+operational spending behavior
+favorable vs unfavorable variances
+departmental performance patterns
+profitability fluctuations
+📈 Key Quantified Insights
+Departments exceeded planned expense budgets by 8–15%
+Revenue performance fell 4–9% below planned targets during weaker periods
+Combined unfavorable variances reduced profitability by approximately 5–7%
+Expense growth exceeded revenue growth during high operational activity periods
+Recurring overspending cycles highlighted weak operational spending discipline
+📊 KPI Dashboard Reporting
+
+Built KPI dashboards tracking:
+
+Actual Revenue vs Budget Revenue
+Actual Expenses vs Budget Expenses
+Monthly Profit Variance
+Budget Achievement %
+Department Performance Trends
+📉 Variance Analysis Results
+Analysis	Quantified Result
+Revenue Variance	4–9% below target
+Expense Variance	8–15% above budget
+Profitability Reduction	5–7%
+Forecast Optimization Opportunity	10–15%
+💰 Quantified Business Impact
+Cost Optimization Opportunity
+
+Reducing unfavorable expense variance by only 5% could improve annual operating profit by:
+
+➡ $2M–$5M annually
+
+Forecasting & Budget Improvement
+
+Improving forecast accuracy by 10–15% could improve:
+
+operational planning
+financial visibility
+budget allocation efficiency
+executive decision-making speed
+Operational Reporting Impact
+
+Automated monthly variance reporting could:
+
+reduce overspending risk
+improve corrective action speed
+strengthen departmental accountability
+improve management visibility into financial performance
+📌 Business Decisions Supported
+
+This project helps management:
+
+identify overspending departments
+optimize operational costs
+strengthen budgeting decisions
+improve profitability visibility
+prioritize corrective financial actions
+🛠 Tools Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+KPI Dashboards
+Variance Analysis
+Financial Reporting
+📚 Skills Demonstrated
+FP&A Skills
+
+Budgeting • Forecasting • Variance Analysis • KPI Tracking • Executive Reporting • Financial Planning
+
+Data Analytics Skills
+
+EDA • Trend Analysis • Dashboarding • Data Visualization • Business Storytelling
+
