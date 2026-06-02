@@ -1,0 +1,298 @@
+# 📊 Cost Optimization & Risk Detection Dashboard (2016–2024)
+
+## 📌 Project Overview
+This project analyzes 8 years of financial transaction data (2016–2024) using Power BI to identify:
+
+- Cost concentration
+- Profitability decline
+- Liquidity risks
+- Revenue instability
+- Operational inefficiencies
+
+The objective was to transform raw accounting data into actionable business insights that support financial decision-making and risk monitoring.
+
+---
+
+# 🎯 Business Problem
+
+The business lacked visibility into:
+
+- Which accounts were driving the majority of expenses
+- Why profitability was declining
+- Where cash flow risks existed
+- Which financial areas management should prioritize first
+
+Without centralized KPI monitoring, financial decisions remained reactive instead of data-driven.
+
+---
+
+# 👥 Stakeholders
+
+This dashboard was designed for:
+
+| Stakeholder | Business Need |
+|---|---|
+| Finance Managers | Cost optimization & budgeting |
+| Executives | Profitability & strategic planning |
+| Accountants | Reporting accuracy & reconciliation |
+| Business Analysts | KPI tracking & risk monitoring |
+
+---
+
+# ❓ Key Business Questions
+
+This project answers the following questions:
+
+1. Which accounts contribute most to financial pressure?
+2. Why is profitability declining?
+3. Are revenue trends stable or volatile?
+4. Where are the largest liquidity risks?
+5. Which costs should management prioritize first?
+
+---
+
+# 🛠️ Tools & Technologies
+
+- Power BI
+- DAX
+- Power Query
+- Excel / CSV Dataset
+
+---
+
+# 📁 Dataset Overview
+
+| Attribute | Details |
+|---|---|
+| Time Period | 2016–2024 |
+| Data Type | Financial Transactions |
+| Key Fields | Date, Debit, Credit, Account, Category, Transaction Type, Payment Method |
+| Source | Structured accounting records |
+
+---
+
+# 🧹 Data Cleaning & Preparation
+
+## Cleaning Steps
+- Removed duplicate records
+- Standardized inconsistent account/category names
+- Corrected invalid and missing values
+- Validated transaction consistency
+- Identified uncategorized expenses
+
+## Key Data Quality Finding
+- Identified approximately **$1.3M uncategorized transactions**, limiting financial transparency and reporting accuracy
+
+---
+
+# 📊 KPI Selection & Business Reasoning
+
+| KPI | Why It Matters |
+|---|---|
+| Net Profit | Measures overall business sustainability |
+| Revenue vs Expense | Identifies profitability imbalance |
+| Cash Flow Gap | Detects liquidity risk |
+| Pareto Cost Analysis | Identifies high-impact cost drivers |
+| Avg Transaction Value | Evaluates transaction efficiency |
+
+---
+
+# 📈 Exploratory Data Analysis (EDA)
+
+## Financial Overview
+- Total Revenue: **$39.40K**
+- Total Expenses: **$40.44K**
+- Net Profit: **-$1.04K**
+- Average Transaction Value: **$606**
+
+---
+
+## Revenue & Expense Trends
+- Revenue spike reached **$60K**
+- Revenue later declined by **48%**
+- Expenses exceeded revenue during later periods
+
+### Business Insight
+The business showed unstable revenue behavior and declining profitability trends.
+
+---
+
+## Expense Distribution
+- Accounts Payable: **50%**
+- Inventory: **30%**
+- Uncategorized Expenses: **20%**
+
+### Business Insight
+A small number of categories were responsible for most operational spending.
+
+---
+
+## Transaction Analysis
+- Average Sales Transaction: **$43**
+- Overall Average Transaction: **$606**
+- Transaction gap: **15x difference**
+
+### Business Insight
+Sales transaction values were significantly lower than operational transaction averages.
+
+---
+
+# 📉 Statistical & Risk Analysis
+
+## Profitability Decline
+- Profit declined by **75% YoY**
+
+### Interpretation
+Rising operational costs and unstable revenue trends negatively impacted profitability.
+
+---
+
+## Pareto Analysis
+Top 3 accounts contributed **75% of total expenses**:
+
+- Accounts Receivable → 25%
+- Cash → 51% cumulative
+- Inventory → 75% cumulative
+
+### Interpretation
+Financial pressure was concentrated in a small number of operational accounts.
+
+---
+
+## Cash Flow Risk
+- Receivables: **$1.34M**
+- Payables: **$1.28M**
+- Liquidity Gap: **$60K**
+
+### Interpretation
+The business faced short-term working capital inefficiencies.
+
+---
+
+## Forecasting
+- Projected future loss: **-$20K**
+
+### Interpretation
+Without corrective action, profitability decline could continue.
+
+---
+
+# 📊 Dashboard Features
+
+## Visualizations Used
+
+| Visualization | Purpose |
+|---|---|
+| KPI Cards | Quick KPI monitoring |
+| Line Charts | Revenue & expense trends |
+| Pareto Chart | Cost concentration analysis |
+| Donut Chart | Expense category breakdown |
+| Bar Charts | Transaction & account comparison |
+| Slicers | Interactive filtering |
+
+---
+
+# 🎯 Decisions Enabled
+
+The dashboard enables stakeholders to:
+
+- Prioritize the accounts driving 75% of expenses
+- Reduce high operational costs
+- Improve receivables and liquidity management
+- Detect abnormal financial fluctuations
+- Improve pricing and sales strategy
+- Improve financial reporting transparency
+
+---
+
+# 💡 Quantified Business Impact
+
+| Impact Area | Quantified Outcome |
+|---|---|
+| Cost Reduction Opportunity | 15–20% |
+| Potential Savings | $10K–$15K |
+| Revenue Improvement Potential | 30–40% |
+| Potential Revenue Increase | +$5K–$7K |
+| Liquidity Gap Identified | $60K |
+| Uncategorized Transactions Flagged | $1.3M |
+| Cost Concentration Identified | 75% from top accounts |
+
+---
+
+# 🧠 Why I Chose This Approach
+
+Instead of creating a dashboard focused only on visualization, I focused on:
+
+- Cost optimization
+- Financial risk detection
+- KPI-driven decision support
+- Business storytelling
+
+The goal was to build a dashboard that supports action, not just reporting.
+
+---
+
+# 🤖 AI Usage & Validation
+
+AI tools were used to accelerate:
+- DAX troubleshooting
+- Formula debugging
+- Idea exploration
+
+However, the following were independently analyzed and validated:
+- KPI selection
+- Insight interpretation
+- Dashboard structure
+- Business recommendations
+- Final conclusions
+
+---
+
+# ⚖️ Tradeoffs & Limitations
+
+- Prioritized interpretability over highly complex forecasting models
+- Limited by transaction categorization quality
+- Forecasting based on historical trends only
+
+---
+
+# 🏆 Key Skills Demonstrated
+
+- Financial Analysis
+- KPI Tracking
+- Risk Detection
+- Business Intelligence
+- Power BI Dashboarding
+- DAX
+- Data Cleaning
+- Data Storytelling
+- Trend & Variance Analysis
+- Stakeholder-Focused Reporting
+
+---
+
+# 📌 Final Conclusion
+
+This project demonstrates how financial transaction data can be transformed into actionable business intelligence for:
+
+- Cost optimization
+- Profitability improvement
+- Liquidity monitoring
+- Financial risk management
+
+The dashboard provides stakeholders with centralized KPI visibility, enabling faster and more informed financial decisions.
+
+---
+
+# 📷 Dashboard Preview
+
+(Add dashboard screenshots here)
+
+---
+
+# 🔗 Connect With Me
+
+- LinkedIn: (Add LinkedIn URL)
+- Portfolio: (Add Portfolio URL)
+
+```
